@@ -2,6 +2,8 @@
 
 This is project resolving 8-queens problem using Min Conflict algorithm
 
+github: https://github.com/thinhhoangnguyen/min-conflict
+
 # Running
 
 $ pip install tkinter
@@ -14,16 +16,12 @@ $ app.py
 
 - Step 2: Click Min conflict button to find solution
 
-<img src = "https://i.imgur.com/u2wZNvi.png?1">
-
-<img src = "https://i.imgur.com/i5RLjcF.png?1">
-
-# Demonstration
-
-<img src = "https://i.imgur.com/cuaEmLU.gif">
-
 # Dependencies
 
 - tkinter
 
 - pilow
+
+# Note
+
+You can run the separate min_conflict.py package to see results from 15 queens or more. Do not use app.py to simulate results greater than 15 queens or more, which will cause the computer to overload
